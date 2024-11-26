@@ -23,8 +23,6 @@
 
 <a name = "chapter"></a>
 # 4. 목차
->### <a href = "#title">제목</a></br>
->#### <a href = "#author">작성자</a>
 >### 1. <a href = "#purpose">목적</a>
 >### 2. <a href = "#license">LLaMA 3 라이선스</a>
 >### 3. <a href = "#caution">주의사항</a>
